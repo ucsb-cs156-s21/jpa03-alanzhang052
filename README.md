@@ -6,7 +6,7 @@ On Heroku: https://jpa03-arrow.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-alanzhang052
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-alanzhang052/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-alanzhang052)
+[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-alanzhang052/branch/main/graph/badge.svg?token=GY2EGTxHyI)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-alanzhang052)
 
 
 ## Integrations
